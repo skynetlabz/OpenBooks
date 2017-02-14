@@ -1,0 +1,81 @@
+{
+    "books": [{
+        "title": "A practical git introduction",
+        "author": "Marc Helbling",
+        "authorUrl": "http://marc.helbling.fr/about.html",
+        "level": "Beginner",
+        "info": "In just a few years, git has become the dominant version control system in the software industry. Despite its widespread use, it often still appears as either magical or cumbersome when its core concepts are not fully grasped. This post is a walkthrough of practical git usage that will detail how git internally handles things.",
+        "url": "http://marc.helbling.fr/2014/09/practical-git-introduction",
+        "cover": "img/git/a-practical-git-introduction.png",
+        "tags": [
+            "Online-Book"
+        ]
+    }, {
+        "title": "A Visual Git Reference",
+        "author": "Mark Lodato",
+        "authorUrl": "http://marklodato.github.com/",
+        "level": "Beginner",
+        "info": "This page gives brief, visual reference for the most common commands in git. Once you know a bit about how git works, this site may solidify your understanding.",
+        "url": "http://marklodato.github.io/visual-git-guide/index-en.html",
+        "cover": "img/git/a-practical-git-introduction.png",
+        "tags": [
+            "Online-Book",
+            "Multilingual"
+        ]
+    }, {
+        "title": "Conversational Git",
+        "author": "Alan Hohn",
+        "authorUrl": "http://blog.anvard.org/",
+        "level": "Beginner",
+        "info": "We’ll start the next chapter momentarily, but first, I want to point out that this book is dogfooded. It’s hosted as a Git repository on GitHub. So you can fork that repository and get your own copy of this book to modify. If you make changes, you can send me a pull request so I can merge your changes into my version. That whole workflow is an essential part of why Git has become so popular for open-source projects, and a key purpose of this book is explaining that workflow and why it’s so powerful.",
+        "url": "http://blog.anvard.org/conversational-git",
+        "cover": "img/git/conversational-git.png",
+        "otherUrls": [{
+                "epub": "http://blog.anvard.org/conversational-git/conversational-git.epub"
+            },
+            {
+                "mobi": "http://blog.anvard.org/conversational-git/conversational-git.mobi"
+            }
+        ],
+        "tags": [
+            "Online-Book"
+        ]
+    }, {
+        "title": "Git - the simple guide",
+        "author": "Roger Dudler",
+        "authorUrl": "http://rogerdudler.github.io",
+        "level": "Beginner",
+        "info": "Just a simple guide for getting started with git. no deep shit ;)",
+        "url": "http://rogerdudler.github.io/git-guide/",
+        "cover": "img/git/git-the-simple-guide.png",
+        "tags": [
+            "Online-Book",
+            "Guide",
+            "Multilingual"
+        ]
+    }, {
+        "title": "Git for Computer Scientists",
+        "author": "Tommi Virtanen",
+        "authorUrl": "http://eagain.net/about/",
+        "level": "Beginner",
+        "info": "Quick introduction to git internals for people who are not scared by words like Directed Acyclic Graph.",
+        "url": "http://eagain.net/articles/git-for-computer-scientists/",
+        "cover": "img/git/git-for-computer-scientists.png",
+        "tags": [
+            "Online-Book",
+            "Article"
+        ]
+    }, {
+        "title": "Git from the Bottom Up",
+        "author": "John Wiegley",
+        "authorUrl": "https://jwiegley.github.io",
+        "level": "Beginner",
+        "info": "Welcome to the world of Git. I hope this document will help to advance your understanding of this powerful content tracking system, and reveal a bit of the simplicity underlying it — however dizzying its array of options may seem from the outside.",
+        "url": "https://jwiegley.github.io/git-from-the-bottom-up/",
+        "cover": "img/git/git-from-the-bottom-up.png",
+        "tags": [
+            "Online-Book",
+            "Beginner-to-intermediate"
+        ]
+    }]
+}
