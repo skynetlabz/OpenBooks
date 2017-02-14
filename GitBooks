@@ -1,0 +1,11 @@
+{
+  "books": [{
+    "title": "A practical git introduction",
+    "author": "Marc Helbling",
+    "authorUrl": "http://marc.helbling.fr/about.html",
+    "level": "Beginner",
+    "info": "In just a few years, git has become the dominant version control system in the software industry. Despite its widespread use, it often still appears as either magical or cumbersome when its core concepts are not fully grasped. This post is a walkthrough of practical git usage that will detail how git internally handles things.",
+    "url": "http://marc.helbling.fr/2014/09/practical-git-introduction",
+    "cover": "img/git/a-practical-git-introduction.png",
+  }]
+}
